@@ -22,7 +22,7 @@ function main() {
       endpoint = 'https://www.flightradar24.com/v1/search/web' + req.url
     }
 
-    console.log(endpoint)
+    // console.log(endpoint)
 
     axios
       .get(endpoint)

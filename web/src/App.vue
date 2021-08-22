@@ -1,6 +1,6 @@
 <template >
-    <Fledge />
-    <Footer />
+  <Fledge />
+  <Footer />
 </template>
 
 <script>
@@ -11,10 +11,6 @@ export default {
   components: {
     Fledge,
     Footer,
-  }
+  },
 }
 </script>
-
-<style>
-
-</style>
