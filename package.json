@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server/index.js"
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,13 @@
   "devDependencies": {
     "nodemon": "^2.0.12"
   },
-  "description": ""
+  "description": "- [Vue](https://vuejs.org/)\r - [Vite](https://vitejs.dev/) ― build\r - [WindiCSS](https://windicss.org/)\r - [Node](https://nodejs.org/en/) ― for reverse proxy\r - [Express](https://expressjs.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timursaurus/fledge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timursaurus/fledge/issues"
+  },
+  "homepage": "https://github.com/timursaurus/fledge#readme"
 }

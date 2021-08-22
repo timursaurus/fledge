@@ -1,5 +1,4 @@
 server/node_modules
-server/public
 web/node_modules
 node_modules
 .DS_Store
